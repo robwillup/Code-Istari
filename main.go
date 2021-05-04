@@ -1,15 +1,12 @@
 // This app simply displays 'Hello world'
 package main
 
+import _ "golang.org/x/mobile/app"
+
 import (
 	"fmt"
-
-	"golang.org/x/mobile/app"
-
 )
 
 func main() {
-	app.Main(func(a app.App) {
-		fmt.Println("Hello world")
-	})
+	fmt.Println("hello world")
 }
