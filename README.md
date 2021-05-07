@@ -1,4 +1,4 @@
-# Code Istari
+# Lothlórien
 
 >Connect with Software Development Mentors and Apprentices.
 
